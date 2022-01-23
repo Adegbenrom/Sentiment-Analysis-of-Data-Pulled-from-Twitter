@@ -13,3 +13,14 @@ If you don't have API keys already, you may use "Raw Data" which i pulled from t
 search_query = "#Buhari -filter:retweet"
 (Buahri is the perseident of Nigeria from 2015 to 2023)
 You can specifiy amount of tweets you want to pull. Here I pulled 100
+
+This work covers:
+- Data extraction from Twitter 
+- If you dont have API key from Twiiter, kinldy use the attached data "Raw Data"
+- Clean data
+- Lemmatization and Steamming
+- Removing Stop-words
+- Vader Sentiment Analysis
+- WordCloud using atual clean data
+- Polarity and Subjectivity
+- Check Analysis Accuracy and error
